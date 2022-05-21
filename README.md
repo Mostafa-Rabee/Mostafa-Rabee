@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Rabee</h1>
 <h3 align="center">A .NET developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-rabee&label=Profile%20views&color=190eb4&style=plastic" alt="mostafa-rabee" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa-rabee" alt="mostafa-rabee" /></a> </p>
-
 - 🔭 I’m currently working on [Withaq Company](https://withaq.sa/)
 
 - 🌱 I’m currently learning **Python & Django Framework**
