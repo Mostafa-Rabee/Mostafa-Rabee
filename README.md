@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mostafa-rabee-794984151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-rabee-794984151/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/eng.mostafa.rabee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/eng.mostafa.rabee" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/[https://www.youtube.com/channel/UC5n_Pl6ARYc4nXPwi5RRWyg](https://youtu.be/aWYbUFeG8k8)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[https://www.youtube.com/channel/uc5n_pl6aryc4nxpwi5rrwyg](https://www.youtube.com/c/[https://www.youtube.com/channel/UC5n_Pl6ARYc4nXPwi5RRWyg](https://youtu.be/aWYbUFeG8k8))" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC5n_Pl6ARYc4nXPwi5RRWyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC5n_Pl6ARYc4nXPwi5RRWyg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
