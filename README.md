@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mostafa-Rabee](https://github.com/Mostafa-Rabee)
 
-- 💬 Ask me about **C#,OOP,SQL Server and ERP System**
+- 💬 Ask me about **C# .NET Forms, C# MVC Core, Odoo ERP, IBM Maximo, SQL Server, DB2, Oracle 11g**
 
 - 📫 How to reach me **eng.mostafa.rabee@gmail.com**
 
