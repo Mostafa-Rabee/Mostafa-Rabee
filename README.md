@@ -5,11 +5,11 @@
 
 <!-- - 🔭 I’m currently working on <a href="https://withaq.sa/" target="_blank"><img align="center" src="https://withaq.sa/wp-content/uploads/2021/04/logowithaq-1.png" alt="https://withaq.sa/" height="30" width="40" /></a>-->
 
-- 🌱 I’m currently learning **Xamarin Forms**
+- 🌱 I’m currently learning **Full Stack Web Developer**
 
 <!-- - 👯 I’m looking to collaborate on **Microsoft Parter**-->
 
-- 🤝 I’m looking for help with **ERP System**
+- 🤝 I’m looking for help with **ERP System Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mostafa-Rabee](https://github.com/Mostafa-Rabee)
 
